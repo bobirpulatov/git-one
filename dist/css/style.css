@@ -1,7 +1,4 @@
-body{
-    margin: 20px;
-    padding: 20px;
-}
+body{ margin: 0; }
 
 #wrapper{
     outline: 1px solid red;
